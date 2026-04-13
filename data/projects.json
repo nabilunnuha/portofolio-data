@@ -7,4 +7,12 @@
     "github": "https://github.com/username/project",
     "demo": "https://project.vercel.app"
   }
+  {
+    "id": 1,
+    "title": "Python - Imap Reader",
+    "description": "Simple, clean Python library for reading verified emails via IMAP — with OTP extraction, verification link parsing, and auto IMAP detection.",
+    "tech": ["imaplib", "email", "re", "threading"],
+    "github": "https://github.com/nabilunnuha/imap_reader",
+    "demo": "https://pypi.org/project/imap-reader/"
+  }
 ]

@@ -1,0 +1,10 @@
+[
+  {
+    "id": 1,
+    "title": "Nama Project",
+    "description": "Deskripsi singkat project kamu.",
+    "tech": ["React", "Node.js", "PostgreSQL"],
+    "github": "https://github.com/username/project",
+    "demo": "https://project.vercel.app"
+  }
+]

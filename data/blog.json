@@ -1,0 +1,9 @@
+[
+  {
+    "id": 1,
+    "title": "Judul Artikel",
+    "date": "2025-01-01",
+    "summary": "Ringkasan singkat artikel kamu.",
+    "slug": "judul-artikel"
+  }
+]

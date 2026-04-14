@@ -1,11 +1,11 @@
 [
   {
     "id": 1,
-    "title": "Nama Project",
-    "description": "Deskripsi singkat project kamu.",
-    "tech": ["React", "Node.js", "PostgreSQL"],
-    "github": "",
-    "demo": ""
+    "title": "React - Dev Portofolio",
+    "description": "An interactive portfolio website built using React and TypeScript. Combining Mantine UI and Framer Motion for a modern interface and smooth animations, and the TanStack (Router & Query) ecosystem for optimal navigation performance and state management.",
+    "tech": ["React", "TypeScript", "Mantine UI", "TanStack Router", "TanStack Query", "Axios", "Framer Motion", "Tabler Icons React"],
+    "github": "https://github.com/nabilunnuha/portofolio",
+    "demo": "https://nabilunnuha.netlify.app/"
   },
   {
     "id": 2,
@@ -17,10 +17,19 @@
   },
   {
     "id": 3,
-    "title": "Sample Project",
-    "description": "Deskripsi singkat project kamu.",
-    "tech": ["React", "Node.js", "PostgreSQL"],
-    "github": "https://github.com/nabilunnuha/",
-    "demo": ["https://res.cloudinary.com/dgu5jzfvr/image/upload/v1770731245/default-size-chart_idhrsr.png", "https://res.cloudinary.com/dgu5jzfvr/image/upload/v1770410137/products/625/images/MINT_HANIN.jpg", "https://res.cloudinary.com/dgu5jzfvr/image/upload/v1770383666/products/1181/images/IMG20260205134253.jpg"]
+    "title": "Python & React - Shopee Chat Bot",
+    "description": "A comprehensive multi-account management dashboard designed to streamline Shopee store monitoring. It allows users to simultaneously track chats, incoming orders, and wallet balances across multiple accounts from a single, centralized interface.",
+    "tech": ["Python", "selenium", "fastapi", "pydantic", "imap-reader", "React", "TypeScript", "Mantine UI", "TanStack Query", "Axios"],
+    "github": "",
+    "demo": [
+      "https://res.cloudinary.com/ddn9dquw2/image/upload/v1776188666/7ef1f923-5c37-4d7e-8297-ad8322540a57.png",
+      "https://res.cloudinary.com/ddn9dquw2/image/upload/v1776188816/dc4f4b62-9c95-4cdb-a9ea-add82a04af62.png",
+      "https://res.cloudinary.com/ddn9dquw2/image/upload/v1776189180/4a791557-34ce-45b2-8a53-33096f6a686e.png",
+      "https://res.cloudinary.com/ddn9dquw2/image/upload/v1776188861/63762f42-7e3a-4ae6-a3cd-8efc9ee623e1.png",
+      "https://res.cloudinary.com/ddn9dquw2/image/upload/v1776189139/b510b53d-bce9-451b-8c63-fe5be2df3017.png",
+      "https://res.cloudinary.com/ddn9dquw2/image/upload/v1776188923/83f5b54e-5a13-4296-af5b-d8009ee01fbf.png",
+      "https://res.cloudinary.com/ddn9dquw2/image/upload/v1776188954/c3408f44-5046-4273-8cfd-0a39c566c704.png",
+      "https://res.cloudinary.com/ddn9dquw2/image/upload/v1776188974/b67f93d7-8eca-46f9-9ca0-c4d092d900b1.png",
+    ]
   }
 ]

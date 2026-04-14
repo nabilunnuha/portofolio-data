@@ -1,9 +1,23 @@
 {
-  "name": "nabilunnuha",
-  "role": "Full Stack Developer",
-  "bio": "Saya seorang developer yang passionate di bidang web development.",
-  "skills": ["TypeScript", "Python", "React", "FastAPI", "Automation", "Web Scraping", "Micro Service"],
-  "github": "https://github.com/nabilunnuha",
-  "linkedin": "https://linkedin.com/in/nabilunnuha",
-  "email": "nabilunnuha@gmail.com"
+    "name": "nabilunnuha",
+    "role": "Full stack developer",
+    "bio": "Self-taught Full Stack Developer since 2021, specializing in Python and TypeScript. Experienced in building desktop automation apps, REST APIs with FastAPI, and dynamic frontends with React + Vite. Have hands-on experience self-hosting web services on a VPS. Always learning, currently expanding into databases and professional engineering practices.",
+    "skills": [
+        "Python",
+        "TypeScript",
+        "JavaScript",
+        "React",
+        "Vite",
+        "FastAPI",
+        "Desktop App (PyInstaller)",
+        "REST API",
+        "Automation",
+        "Web Scraping",
+        "File Processing",
+        "VPS & Self-Hosting",
+        "Microservices"
+    ],
+    "github": "https://github.com/nabilunnuha",
+    "linkedin": "https://linkedin.com/in/nabilunnuha",
+    "email": "nabilunnuha@gmail.com"
 }

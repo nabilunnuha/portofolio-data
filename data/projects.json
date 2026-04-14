@@ -14,5 +14,13 @@
     "tech": ["imaplib", "email", "re", "threading"],
     "github": "https://github.com/nabilunnuha/imap_reader",
     "demo": "https://pypi.org/project/imap-reader/"
+  },
+  {
+    "id": 3,
+    "title": "Sample Project",
+    "description": "Deskripsi singkat project kamu.",
+    "tech": ["React", "Node.js", "PostgreSQL"],
+    "github": "https://github.com/nabilunnuha/",
+    "demo": ["https://res.cloudinary.com/dgu5jzfvr/image/upload/v1770731245/default-size-chart_idhrsr.png", "https://res.cloudinary.com/dgu5jzfvr/image/upload/v1770410137/products/625/images/MINT_HANIN.jpg", "https://res.cloudinary.com/dgu5jzfvr/image/upload/v1770383666/products/1181/images/IMG20260205134253.jpg"]
   }
 ]
